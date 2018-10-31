@@ -1,0 +1,3 @@
+/home/pratyush/Documents/CP/LightOJ/1138/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pratyush/Documents/CP/LightOJ/1138/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/pratyush/Documents/CP/LightOJ/1138/cmake-build-debug/CMakeFiles/1138.dir
